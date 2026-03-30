@@ -14,7 +14,7 @@ This repository explores various aspects of digital governance, aiming to provid
 - **User Engagement**: Strategies for enhancing citizen engagement through digital means.
 
 ## Author Information
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: Manu Mohan M
+- **Email**: manumohan.research@gmail.com
 
 For more detailed inquiries, please refer to the documentation or contact the author directly.
